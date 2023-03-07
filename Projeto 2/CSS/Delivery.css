@@ -1,0 +1,253 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+ }
+ audio{
+    position: absolute;
+ }
+ #imghome{
+     width: 1920px;
+     height: 700px;
+     position: fixed;
+     margin-top: 0px;
+     margin-left: 0px;
+ }
+ #imglogo{
+     width: 150px;
+     height: 130px;
+     position: absolute;
+     margin-left: 1700px;
+     margin-top: 0px;
+ }
+ #imgnome{
+     position: absolute;
+     margin-top: -210px;
+     width: 550px;
+ }
+ #divheader1{
+    width: 100%;
+    height: 130px;
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 0px;
+    background-color: white;
+}
+#divheader2{
+    width: 160px;
+    height: 100px;
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 5%;
+}
+#h1header1{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 10px;
+    color: rgb(83, 6, 6);
+    position: absolute;
+    margin-left: 200px;
+}
+#h1header2{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(83, 6, 6);
+    position: absolute;
+    margin-left: 220px;
+    margin-top: 50px;
+}
+#divheader3{
+    width: 800px;
+    height: 25px;
+    position: absolute;
+    margin-left: 50%;
+    margin-top: 55px;
+    text-align: center;
+}
+.aheader{
+    font-size: 20px;
+    margin-top: 35px;
+    padding: 0 20px;
+    text-decoration: none;
+    color: rgb(83, 82, 82);
+    border-left: black 1px solid;
+}
+a:hover{
+    color: rgb(26, 25, 25);
+}
+#divheader4{
+    position: absolute;
+    margin-top: 540px;
+    margin-left: 800px;
+    height: 50px;
+    width: 400px;
+    background-color: rgb(83, 6, 6);
+}
+/*main*/
+#divmain1{
+    position: absolute;
+    margin-top: 670px;
+    margin-left: 0px;
+    width: 100%;
+    height: 900px;
+    background-color: white;
+}
+#pmain1{
+    position: absolute;
+    margin-left: 10%;
+    margin-top: 60px;
+    font-size: 30px;
+    color: rgb(99, 3, 3);
+}
+#divmain2{
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 10%;
+    width: 80%;
+    height: 300px;
+    background-color: white;
+    border: 1px solid rgb(99, 3, 3);
+    border-left: 0px solid rgb(99, 3, 3);
+    border-right: 0px solid rgb(99, 3, 3);
+}
+#video1{
+    width: 400px;
+    height: 400px;
+}
+iframe{
+    position: absolute;
+    margin-top: 35px;
+    width: 460px;
+    height: 215px;
+    margin-left: 700px;
+}
+#amigos{
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 650px;
+    height: 250px;
+}
+input{
+    background-color: rgb(255, 251, 251);
+    border-radius: 5px 5px 5px 5px;
+    border: 1px gray solid;
+    margin-left: 5px;
+    width: 250px;
+}
+label{
+    font-size: 20px;
+}
+input{
+    background-color: rgb(255, 251, 251);
+    border-radius: 5px 5px 5px 5px;
+    border: 1px gray solid;
+    margin-left: 5px;
+    margin-top: 20px;
+    width: 250px;
+    height: 25px;
+}
+select{
+    background-color: rgb(255, 251, 251);
+    border-radius: 5px 5px 5px 5px;
+    border: 1px gray solid;
+    margin-left: 5px;
+    margin-top: 20px;
+    width: 250px;
+    height: 25px;
+}
+.divreserva{
+    margin-top: 0px;
+    margin-left: 300px;
+    text-align: left;
+}
+#nome{
+    margin-top:400px;
+    width: 250px;
+}
+#lnome{
+    font-size: 20px;
+    margin-left: 160px;
+}
+#lfilial{
+    font-size: 20px;
+    margin-left: 160px;
+}
+#lpagamento{
+    margin-top: 10px;
+    font-size: 20px;
+    margin-left: 112px;
+}
+#lpedido{
+    margin-top: 10px;
+    font-size: 20px;
+    margin-left: 120px;
+}
+#ltelefone{
+    margin-top: 10px;
+    font-size: 20px;
+    margin-left: 113px;
+}
+#lemail{
+    margin-top: 10px;
+    font-size: 20px;
+    margin-left: 135px;
+}
+.enviar{
+    position: absolute;
+    margin-top: 30px;
+    font-size: 20px;
+    margin-left: 300px;
+    width: 100px;
+}
+.enviar:hover{
+    background-color: wheat;
+}
+#divvideo{
+    position: absolute;
+    margin-left: 900px;
+    margin-top: -200px;
+    height: 100px;
+    width: 100px;
+}
+#video{
+    margin-top: -100px;
+    height: 400px;
+    width: 500px;
+}
+/*footer*/
+#divfooter1{
+    position: absolute;
+    margin-top: 1600px;
+    margin-left: 0px;
+    height: 150px;
+    width: 100%;
+    background-color: rgb(26, 25, 25);
+}
+#imgdepois{
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 1050px;
+    height: 50px;
+    width: 300px;
+}
+#imghappy{
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 1310px;
+    height: 150px;
+    width: 300px;
+}
+#img50{
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 1580px;
+    height: 50px;
+    width: 300px;
+}
+#imgface{
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 50px;
+    width: 100px;
+}

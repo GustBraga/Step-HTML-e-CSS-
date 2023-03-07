@@ -1,0 +1,312 @@
+
+* {
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+ }
+ #imghome{
+     width: 1920px;
+     height: 1080px;
+     position: fixed;
+     margin-top: 0px;
+     margin-left: 0px;
+ }
+ #imglogo{
+     width: 150px;
+     height: 130px;
+     position: absolute;
+     margin-left: 1700px;
+     margin-top: 0px;
+ }
+ #imgnome{
+     position: absolute;
+     margin-top: -210px;
+     width: 550px;
+ }
+ #divheader1{
+    width: 100%;
+    height: 130px;
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 0px;
+    background-color: white;
+}
+#divheader2{
+    width: 160px;
+    height: 100px;
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 5%;
+}
+#h1header1{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 10px;
+    color: rgb(83, 6, 6);
+    position: absolute;
+    margin-left: 200px;
+}
+#h1header2{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(83, 6, 6);
+    position: absolute;
+    margin-left: 220px;
+    margin-top: 50px;
+}
+#divheader3{
+    width: 800px;
+    height: 25px;
+    position: absolute;
+    margin-left: 50%;
+    margin-top: 55px;
+    text-align: center;
+}
+.aheader{
+    font-size: 20px;
+    margin-top: 35px;
+    padding: 0 20px;
+    text-decoration: none;
+    color: rgb(83, 82, 82);
+    border-left: black 1px solid;
+}
+a:hover{
+    color: rgb(26, 25, 25);
+}
+#divheader4{
+    position: absolute;
+    margin-top: 540px;
+    margin-left: 800px;
+    height: 50px;
+    width: 400px;
+    background-color: rgb(83, 6, 6);
+}
+/*Main*/
+#divmain1{
+    position: absolute;
+    margin-top: 670px;
+    margin-left: 0px;
+    height: 300px;
+    width: 100%;
+    background-color: white;
+}
+#imgingredientes{
+    height: 600px;
+    position: absolute;
+    margin-top: -150px;
+    margin-left: 0px;
+}
+#imgingredientes #imgtomate :hover{
+    height: 300px;
+}
+#divmain2{
+    position: absolute;
+    margin-left: 600px;
+    margin-top: 100px;
+    width: 800px;
+}
+#pmain1{
+    font-size: 20px;
+    color: rgb(83, 82, 82);
+
+}
+#imgchef{
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 0px;
+    height: 300px;
+    width: 330px;
+}
+#divmain3{
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 1500px;
+    height: 300px;
+    width: 300px;
+}
+#divmain4{
+    position: absolute;
+    margin-top: 970px;
+    margin-left: 0px;
+    height: 1000px;
+    width: 100%;
+    background-color: white;
+}
+#imgpizza{
+    height: 100%;
+    position: absolute;
+    margin-left: 0px;
+    margin-top: 0px;
+    width: 60%;
+    padding-left: 0.3%;
+}
+#imgcalzone{
+    position: absolute;
+    margin-left: 60.6%;
+    margin-top: 0px;
+    padding-left: 0.3px;
+    padding-right: 0.3px;
+    width: 39.1%;
+    height: 550px;
+}
+#imgvoce{
+    position: absolute;
+    margin-left: 66%;
+    margin-top: 550px;
+    padding-left: 5px;
+    padding-right: 5px;
+    width: 500px;
+    height: 450px;
+}
+#divmain5{
+    position: absolute;
+    margin-top: 1970px;
+    margin-left: 0px;
+    width: 100%;
+    height: 800px;
+    background-color: white;
+}
+#imgpizza2{
+    margin-left: 0.3%;
+    margin-top: 0.3%;
+    position: absolute;
+    width: 49.7%;
+    height: 98.7%;
+}
+#imgazeite{
+    margin-left: 50.3%;
+    margin-top: 0.3%;
+    position: absolute;
+    width: 49.4%;
+    height: 98.7%;
+}
+#divmain6{
+    position: absolute;
+    margin-top: 2770px;
+    margin-left: 0px;
+    width: 100%;
+    height: 800px;
+    background-color: white;
+    text-align: center;
+}
+#pmain2{
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 10%;
+    font-size: 30px;
+    color: rgb(107, 15, 15);
+}
+#divmain7{
+    position: absolute;
+    margin-top: 140px;
+    margin-left: 10%;
+    width: 80%;
+    height: 400px;
+    border-top: rgb(99, 3, 3) 1px solid;
+}
+#pmain3{
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 0%;
+    font-size: 30px;
+    color: rgb(83, 82, 82);
+}
+#divmain8{
+    position: absolute;
+    margin-top: 110px;
+    margin-left: 0%;
+    width: 100%;
+    height: 5px;
+    border-top: 1px solid rgb(83, 82, 82);
+}
+#imgleblon {
+    position: absolute;
+    margin-left: -650px;
+    margin-top: 150px;
+    width: 400px;
+    height: 300px;
+    border: 1px solid rgb(83, 82, 82);
+}
+#divleblon{
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 600px;
+    height: 200px;
+    width: 400px;
+    color: rgb(83, 82, 82);
+    text-align: left;
+    font-size: 18px;
+}
+#imgviaparque{
+    position: absolute;
+    margin-left: -200px;
+    margin-top: 150px;
+    width: 400px;
+    height: 300px;
+    border: 1px solid rgb(83, 82, 82)
+}
+#divviaparque{
+    position: absolute;
+    margin-left: 750px;
+    margin-top: 600px;
+    height: 200px;
+    width: 400px;
+    color: rgb(83, 82, 82);
+    text-align: left;
+    font-size: 18px;
+}
+#imgrecreio{
+    position: absolute;
+    margin-left: 250px;
+    margin-top: 150px;
+    width: 400px;
+    height: 300px;
+    border: 1px solid rgb(83, 82, 82)
+}
+#divrecreio{
+    position: absolute;
+    margin-left: 1200px;
+    margin-top: 600px;
+    height: 200px;
+    width: 400px;
+    color: rgb(83, 82, 82);
+    text-align: left;
+    font-size: 18px;
+}
+/*footer*/
+#divfooter1{
+    position: absolute;
+    margin-top: 3570px;
+    margin-left: 0px;
+    height: 150px;
+    width: 100%;
+    background-color: rgb(26, 25, 25);
+}
+#imgdepois{
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 1050px;
+    height: 50px;
+    width: 300px;
+}
+#imghappy{
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 1310px;
+    height: 150px;
+    width: 300px;
+}
+#img50{
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 1580px;
+    height: 50px;
+    width: 300px;
+}
+#imgface{
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 50px;
+    width: 100px;
+}
